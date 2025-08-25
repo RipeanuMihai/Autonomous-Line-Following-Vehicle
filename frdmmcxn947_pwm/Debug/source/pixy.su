@@ -1,0 +1,5 @@
+../source/pixy.c:24:13:lpi2c_master_callback	16	static
+../source/pixy.c:31:6:Pixy2Init	16	static
+../source/pixy.c:42:12:GetPixy2State	4	static
+../source/pixy.c:47:6:PixySetLed	32	static
+../source/pixy.c:79:17:PixyGetVectors	48	static

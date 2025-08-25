@@ -1,0 +1,2 @@
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\drivers/fsl_pwm.h:1058:20:PWM_SetPwmLdok	16	static
+../source/esc.c:18:6:SetESCSpeed	32	static

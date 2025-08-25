@@ -1,0 +1,4 @@
+C:\Users\cezar\Desktop\newdrivertest\newdrivertest\frdmmcxn947_pwm\drivers/fsl_clock.h:1394:20:CLOCK_EnableClock	24	static
+../source/pwm.c:50:10:LPI2C2_GetFreq	8	static
+../source/pwm.c:55:13:lpi2c_master_callback	16	static
+../source/pwm.c:73:5:main	2152	static

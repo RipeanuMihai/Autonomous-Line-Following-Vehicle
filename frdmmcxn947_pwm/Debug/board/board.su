@@ -1,0 +1,4 @@
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\utilities/fsl_debug_console.h:195:24:DbgConsole_Init	24	static
+../board/board.c:28:6:BOARD_InitDebugConsole	16	static
+../board/board.c:44:6:BOARD_InitDebugConsole_Core1	16	static
+../board/board.c:232:6:BOARD_PowerMode_OD	16	static

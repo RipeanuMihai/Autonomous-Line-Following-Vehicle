@@ -1,0 +1,10 @@
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\drivers/fsl_pwm.h:857:20:PWM_StartTimer	16	static
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\drivers/fsl_pwm.h:1058:20:PWM_SetPwmLdok	16	static
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\drivers/fsl_pwm.h:1125:20:PWM_SetupFaultDisableMap	24	static
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\drivers/fsl_gpio.h:329:20:GPIO_PinWrite	24	static
+../source/hbridge.c:28:6:InitNewPWM	96	static
+../source/hbridge.c:125:6:HbridgeInit	40	static
+../source/hbridge.c:173:6:HbridgeSetSpeed	32	static
+../source/hbridge.c:230:5:HbridgeGetSpeed	16	static
+../source/hbridge.c:235:6:HbridgeSetBrake	24	static
+../source/hbridge.c:252:9:HbridgeGetBrake	16	static

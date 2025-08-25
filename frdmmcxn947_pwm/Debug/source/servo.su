@@ -1,0 +1,7 @@
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\drivers/fsl_pwm.h:857:20:PWM_StartTimer	16	static
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\drivers/fsl_pwm.h:1058:20:PWM_SetPwmLdok	16	static
+C:\Users\cezar\Documents\MCUXpressoIDE_11.9.1_2170\workspace5\frdmmcxn947_pwm\drivers/fsl_pwm.h:1125:20:PWM_SetupFaultDisableMap	24	static
+../source/servo.c:16:6:delay_ms	16	static
+../source/servo.c:21:13:PWM_DRV_Init3PhPwm	80	static
+../source/servo.c:67:6:PWM_Setup	32	static
+../source/servo.c:143:6:Steer	40	static
